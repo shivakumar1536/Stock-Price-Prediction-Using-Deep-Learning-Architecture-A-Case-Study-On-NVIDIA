@@ -1,8 +1,6 @@
 # Stock-Price-Prediction-Using-Deep-Learning-Architecture-A-Case-Study-On-NVIDIA
 
-# 📈 NVIDIA Stock Price Prediction using Deep Learning Architectures
 
-A case study on predicting and forecasting **NVIDIA stock prices** using various deep learning models. This project explores multiple architectures, compares their performance, and focuses on both **short-term volatility** and **long-term trend forecasting**.
 
 ---
 
