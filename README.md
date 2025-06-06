@@ -46,13 +46,14 @@ A case study on predicting and forecasting **NVIDIA stock prices** using various
 
 ## 📈 Sample Plots
 
-- Loss vs Epochs
 - Actual vs Predicted prices
 - Model comparisons (bar chart of metrics)
 
-> Add plots/screenshots to enhance visuals.
 
----
 
 ## 📂 Project Structure
+- About Dataset
+- Implementation
+- Evaluation Metrics
+- Result For Best Performing Model
 
